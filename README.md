@@ -7,11 +7,15 @@
 - CSS
 - JavaScript
 - PHP
-- MySQL
+- React
+- Node.js
+- python 
+- MySQL/Mongodb
 
 ## Projects
 - Billing Management System
 - Business Website
+- Inventory Management System 
 - Login Authentication System
 
 ## Currently Learning
